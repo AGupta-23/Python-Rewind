@@ -144,6 +144,56 @@ sum()
 list()
 tuple()
 
+Chapter 5 - Dictionaries & Sets Learnings
+Dictionaries
+Creating dictionaries
+Key-value pairs
+Accessing values using keys
+Using get() method
+Adding new key-value pairs
+Updating values
+Removing items from dictionary
+Dictionary length using len()
+Accessing:
+keys()
+values()
+items()
+Looping through dictionaries
+Membership operators in dictionaries
+Nested dictionaries
+Important Dictionary Methods
+get()
+update()
+pop()
+popitem()
+copy()
+clear()
+fromkeys()
+Sets
+Creating sets
+Unique values in sets
+Empty set using set()
+Adding elements
+Removing elements
+Membership operators
+Looping through sets
+Unordered nature of sets
+Important Set Methods
+add()
+remove()
+discard()
+pop()
+update()
+copy()
+clear()
+Set Operations
+union()
+intersection()
+difference()
+symmetric_difference()
+issubset()
+issuperset()
+
 # 🛠 Libraries Used
 - Pillow
 - pyjokes
