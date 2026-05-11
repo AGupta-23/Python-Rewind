@@ -91,6 +91,59 @@ isalnum()
 isalpha()
 isdigit()
 
+
+Chapter 4 - Lists & Tuples Learnings
+Lists
+Creating lists
+Mixed datatype lists
+Indexing
+Negative indexing
+List slicing
+Slicing with skip values
+Reversing lists using [::-1]
+Nested lists
+List concatenation
+List repetition using *
+Membership operators (in, not in)
+Looping through lists
+Mutable nature of lists
+Important List Methods
+append()
+insert()
+remove()
+pop()
+sort()
+reverse()
+count()
+index()
+copy()
+clear()
+extend()
+Tuples
+Creating tuples
+Single element tuple
+Mixed datatype tuples
+Indexing
+Negative indexing
+Tuple slicing
+Slicing with skip values
+Reversing tuples using [::-1]
+Nested tuples
+Tuple concatenation
+Tuple repetition using *
+Membership operators
+Looping through tuples
+Immutable nature of tuples
+Important Tuple Methods / Functions
+count()
+index()
+len()
+max()
+min()
+sum()
+list()
+tuple()
+
 # 🛠 Libraries Used
 - Pillow
 - pyjokes
