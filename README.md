@@ -43,6 +43,54 @@ Problems Practiced:
 
 ---
 
+Chapter 2 – Variables & Data Types
+
+Learned:
+
+Variables and naming rules
+Python data types
+type() function
+Typecasting
+Operators in Python
+input() function
+Compile-time vs runtime errors
+Basics of Pylance and Python interpreter
+
+Practiced small programs using all concepts.
+
+Chapter 3 - Strings Learnings
+What are strings in Python
+Creating strings using " ", ' ', ''' '''
+String indexing
+String slicing
+Negative indexing
+Slicing with skip values
+Reversing strings using [::-1]
+String immutability
+String concatenation
+Escape sequence characters
+\n
+\t
+\"
+\\
+Important string methods:
+len()
+upper()
+lower()
+capitalize()
+title()
+startswith()
+endswith()
+find()
+count()
+replace()
+strip()
+split()
+join()
+isalnum()
+isalpha()
+isdigit()
+
 # 🛠 Libraries Used
 - Pillow
 - pyjokes
